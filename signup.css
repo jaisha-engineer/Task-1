@@ -1,0 +1,45 @@
+
+
+.container
+{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(183, 185, 167);
+    border:1px solid black;
+    margin-left: 450px;
+     padding-left: 100px;
+     padding-right: 80px;
+     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+h1{
+    text-align: center;
+    padding-top:30px;
+    
+}
+
+      .form1 input
+      {
+          padding: 5px;  
+          border: 1px solid black;
+          border-radius: 4px;
+      }  
+button
+{
+   margin-left: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: rgb(15, 136, 10);
+}
+label
+{
+    font-size: 15px;
+    font-weight: 700;
+}
